@@ -1,0 +1,25 @@
+"config"
+{
+	"bindings"
+	{
+		"SPACE"		"<unbound>"
+		"ALT"		"+jump"
+		"MOUSE4"		"+jump"
+		"MOUSE5"		"+voicerecord"
+		"1"		"switchhandsright;slot1"
+		"2"		"switchhandsright;slot2"
+		"3"		"switchhandsleft;slot3"
+		"4"		"switchhandsright;slot4"
+		"5"		"switchhandsright;slot5"
+		"c"		"<unbound>"
+		"q"		"switchhandsright;lastinv;switchhandsleft;lastinv;switchhandsright"
+		"MWHEELUP"		"slot8"
+		"MWHEELDOWN"		"slot7 "
+		"v"		"lastinv"
+		"x"		"useskill"
+	}
+	"analogbindings"
+	{
+		"MOUSE_Y"		"pitch"
+	}
+}
