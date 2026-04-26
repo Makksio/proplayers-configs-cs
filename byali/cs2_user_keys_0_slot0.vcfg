@@ -1,0 +1,14 @@
+"config"
+{
+	"bindings"
+	{
+		"n"		"+runthrow;+throwaction"
+		"ALT"		"+jumpaction;+throwaction;"
+		"SPACE"		"<unbound>"
+		"MWHEELUP"		"+jump"
+		"MWHEELDOWN"		"<unbound>"
+		"v"		"+voicerecord"
+		"MOUSE4"		"<unbound>"
+		"CAPSLOCK"		"noclip"
+	}
+}
