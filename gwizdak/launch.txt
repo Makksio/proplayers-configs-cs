@@ -1,0 +1,1 @@
+-nojoy +exec autoexec.cfg -refresh 240

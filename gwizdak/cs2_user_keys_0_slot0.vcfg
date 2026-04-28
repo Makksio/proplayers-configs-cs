@@ -1,0 +1,20 @@
+"config"
+{
+	"bindings"
+	{
+		"MWHEELDOWN"		"+jump"
+		"MWHEELUP"		"+jump"
+		"x"		"+voicerecord"
+		"z"		"radio"
+		"MOUSE1"		"+attack"
+		"MOUSE4"		"<unbound>"
+		"v"		"+jumpthrow"
+		"c"		"<unbound>"
+		"a"		"+a"
+		"d"		"+d"
+	}
+	"analogbindings"
+	{
+		"MOUSE_X"		"yaw"
+	}
+}
