@@ -1,0 +1,1 @@
+-novid -tickrate 128 +cl_forcepreload 1 +cl_updaterate -d3d9ex -refresh 144 +mat_queue_mode -1 -nojoyrate 128 -refresh 144 
